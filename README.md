@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/lazarohcm/lazarohcm/blob/master/github-metrics.svg)
+[<img align="left" width="390" alt="🦑" src="https://github.com/lazarohcm/lazarohcm/blob/main/metrics.svg">](https://github.com/lowlighter/metrics)
