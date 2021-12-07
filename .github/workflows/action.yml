@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.classic.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
