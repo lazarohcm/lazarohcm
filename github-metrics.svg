@@ -1565,21 +1565,21 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 318 edited files from 188 commits over last 37 days
+            estimation from 317 edited files from 188 commits over last 37 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.15666666666664" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="309.15666666666664" y="0" width="112.34666666666668" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="421.50333333333333" y="0" width="13.606666666666667" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="435.11" y="0" width="12.44" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="447.55" y="0" width="7.16" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.71000000000004" y="0" width="2.6833333333333336" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.3933333333334" y="0" width="2.4899999999999998" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.8833333333334" y="0" width="0.11666666666666667" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.23751032055276" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="309.23751032055276" y="0" width="112.28645508929993" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="421.5239654098527" y="0" width="13.599374248591335" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="435.12333965844397" y="0" width="12.433332850500458" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="447.5566725089444" y="0" width="7.156162637426307" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.71283514637076" y="0" width="2.681895215609021" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.3947303619798" y="0" width="2.488665498211104" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.8833958601909" y="0" width="0.11660413980908786" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1590,7 +1590,7 @@
                     </div>
                             <small>
                                 <div>3.25k lines</div>
-                                <div>67.21%</div>
+                                <div>67.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1632,7 +1632,7 @@
                     </div>
                             <small>
                                 <div>1.60k lines</div>
-                                <div>24.42%</div>
+                                <div>24.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2813,7 +2813,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2021, 18:13:07 (timezone Asia/Dubai) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 8 Dec 2021, 19:14:35 (timezone Asia/Dubai) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
