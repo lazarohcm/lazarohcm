@@ -1572,14 +1572,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.5414948915576" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="309.5414948915576" y="0" width="112.41183007707474" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="421.95332496863233" y="0" width="13.822262054131564" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="435.7755870227639" y="0" width="10.923247893887794" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="446.6988349166517" y="0" width="8.06710880086037" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.7659437175121" y="0" width="2.6549560853199496" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.420899802832" y="0" width="2.463667323893171" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="459.8845671267252" y="0" width="0.11543287327478041" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.76969672710777" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="288.76969672710777" y="0" width="135.82916383140534" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="424.59886055851314" y="0" width="12.861145578993716" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="437.46000613750687" y="0" width="10.163711323700117" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="447.623717461207" y="0" width="7.5061708628534065" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.1298883240604" y="0" width="2.4703465022882227" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.6002348263486" y="0" width="2.2923588039867107" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="459.8925936303353" y="0" width="0.10740636966470533" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1590,7 +1590,7 @@
                     </div>
                             <small>
                                 <div>3.19k lines</div>
-                                <div>67.29%</div>
+                                <div>62.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1600,7 +1600,7 @@
                     </div>
                             <small>
                                 <div>189 lines</div>
-                                <div>3%</div>
+                                <div>2.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1610,7 +1610,7 @@
                     </div>
                             <small>
                                 <div>123 lines</div>
-                                <div>1.75%</div>
+                                <div>1.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1620,7 +1620,7 @@
                     </div>
                             <small>
                                 <div>15 lines</div>
-                                <div>0.54%</div>
+                                <div>0.5%</div>
                             </small>
                         </div>
                     </section>
@@ -1631,8 +1631,8 @@
                       Vue
                     </div>
                             <small>
-                                <div>1.61k lines</div>
-                                <div>24.44%</div>
+                                <div>2.26k lines</div>
+                                <div>29.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1642,7 +1642,7 @@
                     </div>
                             <small>
                                 <div>88 lines</div>
-                                <div>2.37%</div>
+                                <div>2.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1652,7 +1652,7 @@
                     </div>
                             <small>
                                 <div>6 lines</div>
-                                <div>0.58%</div>
+                                <div>0.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1662,7 +1662,7 @@
                     </div>
                             <small>
                                 <div>5 lines</div>
-                                <div>0.03%</div>
+                                <div>0.02%</div>
                             </small>
                         </div>
                     </section>
@@ -2803,7 +2803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2021, 01:12:19 (timezone Asia/Dubai) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 14 Dec 2021, 02:11:10 (timezone Asia/Dubai) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
