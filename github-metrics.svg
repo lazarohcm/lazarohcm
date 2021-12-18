@@ -1572,13 +1572,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="313.4491363703088" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="313.4491363703088" y="0" width="125.19621275138229" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="438.6453491216911" y="0" width="11.791481137153202" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="450.4368302588443" y="0" width="6.881880902285071" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.3187111611294" y="0" width="2.2648872143661007" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.58359837549546" y="0" width="0.3179282673582228" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="459.90152664285364" y="0" width="0.0984733571463522" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="314.1116107881491" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="314.1116107881491" y="0" width="124.61311591288556" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="438.7247267010347" y="0" width="11.747650908559102" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="450.4723776095938" y="0" width="6.856300196214641" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.3286778058084" y="0" width="2.2564683801932897" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.58514618600174" y="0" width="0.31674649312030034" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="459.90189267912206" y="0" width="0.09810732087796911" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1588,8 +1588,8 @@
                       Dart
                     </div>
                             <small>
-                                <div>3.71k lines</div>
-                                <div>68.14%</div>
+                                <div>3.73k lines</div>
+                                <div>68.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1599,7 +1599,7 @@
                     </div>
                             <small>
                                 <div>189 lines</div>
-                                <div>2.56%</div>
+                                <div>2.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1630,8 +1630,8 @@
                       Vue
                     </div>
                             <small>
-                                <div>2.26k lines</div>
-                                <div>27.22%</div>
+                                <div>2.27k lines</div>
+                                <div>27.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1641,7 +1641,7 @@
                     </div>
                             <small>
                                 <div>123 lines</div>
-                                <div>1.5%</div>
+                                <div>1.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2776,7 +2776,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2021, 22:15:47 (timezone Asia/Dubai) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 18 Dec 2021, 23:10:55 (timezone Asia/Dubai) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
